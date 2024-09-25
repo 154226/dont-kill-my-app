@@ -1,4 +1,4 @@
----
+154226---
 manufacturer:
     - tecno
 
